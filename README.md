@@ -13,6 +13,10 @@
 8.实时消息接收，两个用户之间的消息传输保证实时性<br />
 9.未读消息延迟上线接收<br />
 
+## 效果图：
+<div align=center>![img](1.png)</div>
+
+
 ### 使用方式 
 	服务端：python run_server.py
 	客服端：python run_client.py
