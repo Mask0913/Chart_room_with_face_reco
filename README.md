@@ -14,7 +14,9 @@
 9.未读消息延迟上线接收<br />
 
 ## 效果图：
-<div align=center>![image](image/1.png)</div>
+<div align=center>
+ ![image](image/1.png) 
+</div>
 
 
 ### 使用方式 
